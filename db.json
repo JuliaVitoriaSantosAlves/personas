@@ -1,0 +1,1278 @@
+{
+    "sexes": [
+        {
+            "id": 1,
+            "sex": "Feminino"
+        },
+        {
+            "id": 2,
+            "sex": "Masculino"
+        },
+        {
+            "id": 3,
+            "sex": "Não-binário"
+        }
+    ],
+    "ages": [
+        {
+            "id": 1,
+            "age": "Criança"
+        },
+        {
+            "id": 2,
+            "age": "Adolescente"
+        },
+        {
+            "id": 3,
+            "age": "Adulto"
+        },
+        {
+            "id": 4,
+            "age": "Idoso"
+        }
+    ],
+    "heights": [
+        {
+            "id": 1,
+            "height": "157 cm"
+        },
+        {
+            "id": 2,
+            "height": "159 cm"
+        },
+        {
+            "id": 3,
+            "height": "161 cm"
+        },
+        {
+            "id": 4,
+            "height": "163 cm"
+        },
+        {
+            "id": 5,
+            "height": "165 cm"
+        },
+        {
+            "id": 6,
+            "height": "167 cm"
+        },
+        {
+            "id": 7,
+            "height": "169 cm"
+        },
+        {
+            "id": 8,
+            "height": "171 cm"
+        },
+        {
+            "id": 9,
+            "height": "173 cm"
+        },
+        {
+            "id": 10,
+            "height": "175 cm"
+        },
+        {
+            "id": 11,
+            "height": "177 cm"
+        },
+        {
+            "id": 12,
+            "height": "179 cm"
+        },
+        {
+            "id": 13,
+            "height": "181 cm"
+        },
+        {
+            "id": 14,
+            "height": "183 cm"
+        }
+    ],
+    "weights": [
+        {
+            "id": 1,
+            "weight": "50 kg"
+        },
+        {
+            "id": 2,
+            "weight": "51 kg"
+        },
+        {
+            "id": 3,
+            "weight": "52 kg"
+        },
+        {
+            "id": 4,
+            "weight": "53 kg"
+        },
+        {
+            "id": 5,
+            "weight": "54 kg"
+        },
+        {
+            "id": 6,
+            "weight": "55 kg"
+        },
+        {
+            "id": 7,
+            "weight": "56 kg"
+        },
+        {
+            "id": 8,
+            "weight": "57 kg"
+        },
+        {
+            "id": 9,
+            "weight": "58 kg"
+        },
+        {
+            "id": 10,
+            "weight": "59 kg"
+        },
+        {
+            "id": 11,
+            "weight": "60 kg"
+        },
+        {
+            "id": 12,
+            "weight": "61 kg"
+        },
+        {
+            "id": 13,
+            "weight": "62 kg"
+        },
+        {
+            "id": 14,
+            "weight": "63 kg"
+        },
+        {
+            "id": 15,
+            "weight": "64 kg"
+        },
+        {
+            "id": 16,
+            "weight": "65 kg"
+        },
+        {
+            "id": 17,
+            "weight": "66 kg"
+        },
+        {
+            "id": 18,
+            "weight": "67 kg"
+        },
+        {
+            "id": 19,
+            "weight": "68 kg"
+        },
+        {
+            "id": 20,
+            "weight": "69 kg"
+        },
+        {
+            "id": 21,
+            "weight": "70 kg"
+        },
+        {
+            "id": 22,
+            "weight": "71 kg"
+        },
+        {
+            "id": 23,
+            "weight": "72 kg"
+        },
+        {
+            "id": 24,
+            "weight": "73 kg"
+        },
+        {
+            "id": 25,
+            "weight": "74 kg"
+        },
+        {
+            "id": 26,
+            "weight": "75 kg"
+        },
+        {
+            "id": 27,
+            "weight": "76 kg"
+        },
+        {
+            "id": 28,
+            "weight": "77 kg"
+        },
+        {
+            "id": 29,
+            "weight": "78 kg"
+        },
+        {
+            "id": 30,
+            "weight": "79 kg"
+        },
+        {
+            "id": 31,
+            "weight": "80 kg"
+        },
+        {
+            "id": 32,
+            "weight": "81 kg"
+        },
+        {
+            "id": 33,
+            "weight": "82 kg"
+        },
+        {
+            "id": 34,
+            "weight": "83 kg"
+        },
+        {
+            "id": 35,
+            "weight": "84 kg"
+        },
+        {
+            "id": 36,
+            "weight": "85 kg"
+        },
+        {
+            "id": 37,
+            "weight": "86 kg"
+        },
+        {
+            "id": 38,
+            "weight": "87 kg"
+        },
+        {
+            "id": 39,
+            "weight": "88 kg"
+        },
+        {
+            "id": 40,
+            "weight": "89 kg"
+        },
+        {
+            "id": 41,
+            "weight": "90 kg"
+        },
+        {
+            "id": 42,
+            "weight": "91 kg"
+        },
+        {
+            "id": 43,
+            "weight": "92 kg"
+        },
+        {
+            "id": 44,
+            "weight": "93 kg"
+        },
+        {
+            "id": 45,
+            "weight": "94 kg"
+        },
+        {
+            "id": 46,
+            "weight": "95 kg"
+        },
+        {
+            "id": 47,
+            "weight": "96 kg"
+        },
+        {
+            "id": 48,
+            "weight": "97 kg"
+        }
+    ],
+    "hairColors": [
+        {
+            "id": 1,
+            "color": "Loiro"
+        },
+        {
+            "id": 2,
+            "color": "Castanho"
+        },
+        {
+            "id": 3,
+            "color": "Preto"
+        },
+        {
+            "id": 4,
+            "color": "Ruivo"
+        },
+        {
+            "id": 5,
+            "color": "Grisalho"
+        },
+        {
+            "id": 6,
+            "color": "Branco"
+        },
+        {
+            "id": 7,
+            "color": "Dourado"
+        },
+        {
+            "id": 8,
+            "color": "Avelã"
+        },
+        {
+            "id": 9,
+            "color": "Cinza"
+        },
+        {
+            "id": 10,
+            "color": "Azul"
+        },
+        {
+            "id": 11,
+            "color": "Verde"
+        },
+        {
+            "id": 12,
+            "color": "Rosa"
+        },
+        {
+            "id": 13,
+            "color": "Vermelho"
+        },
+        {
+            "id": 14,
+            "color": "Roxo"
+        }
+    ],
+    "eyeColors": [
+        {
+            "id": 1,
+            "color": "Azul"
+        },
+        {
+            "id": 2,
+            "color": "Verde"
+        },
+        {
+            "id": 3,
+            "color": "Castanho"
+        },
+        {
+            "id": 4,
+            "color": "Avelã"
+        },
+        {
+            "id": 5,
+            "color": "Cinza"
+        },
+        {
+            "id": 6,
+            "color": "Âmbar"
+        },
+        {
+            "id": 7,
+            "color": "Preto"
+        },
+        {
+            "id": 8,
+            "color": "Mel"
+        },
+        {
+            "id": 9,
+            "color": "Violeta"
+        },
+        {
+            "id": 10,
+            "color": "Turquesa"
+        }
+    ],
+    "personalityTraits": [
+        {
+            "id": 1,
+            "trait": "Amigável"
+        },
+        {
+            "id": 2,
+            "trait": "Curioso"
+        },
+        {
+            "id": 3,
+            "trait": "Teimoso"
+        },
+        {
+            "id": 4,
+            "trait": "Engraçado"
+        },
+        {
+            "id": 5,
+            "trait": "Empático"
+        },
+        {
+            "id": 6,
+            "trait": "Aventureiro"
+        },
+        {
+            "id": 7,
+            "trait": "Reservado"
+        },
+        {
+            "id": 8,
+            "trait": "Criativo"
+        },
+        {
+            "id": 9,
+            "trait": "Determinado"
+        },
+        {
+            "id": 10,
+            "trait": "Sincero"
+        },
+        {
+            "id": 11,
+            "trait": "Paciente"
+        },
+        {
+            "id": 12,
+            "trait": "Impulsivo"
+        },
+        {
+            "id": 13,
+            "trait": "Confiante"
+        },
+        {
+            "id": 14,
+            "trait": "Pragmático"
+        },
+        {
+            "id": 15,
+            "trait": "Generoso"
+        },
+        {
+            "id": 16,
+            "trait": "Flexível"
+        },
+        {
+            "id": 17,
+            "trait": "Responsável"
+        },
+        {
+            "id": 18,
+            "trait": "Cauteloso"
+        },
+        {
+            "id": 19,
+            "trait": "Idealista"
+        },
+        {
+            "id": 20,
+            "trait": "Observador"
+        },
+        {
+            "id": 21,
+            "trait": "Organizado"
+        },
+        {
+            "id": 22,
+            "trait": "Desorganizado"
+        },
+        {
+            "id": 23,
+            "trait": "Tímido"
+        },
+        {
+            "id": 24,
+            "trait": "Ousado"
+        },
+        {
+            "id": 25,
+            "trait": "Meticuloso"
+        }
+    ],
+    "skills": [
+        {
+            "id": 1,
+            "skill": "Programação"
+        },
+        {
+            "id": 2,
+            "skill": "Culinária"
+        },
+        {
+            "id": 3,
+            "skill": "Escrita"
+        },
+        {
+            "id": 4,
+            "skill": "Jardinagem"
+        },
+        {
+            "id": 5,
+            "skill": "Desenho"
+        },
+        {
+            "id": 6,
+            "skill": "Música"
+        },
+        {
+            "id": 7,
+            "skill": "Fotografia"
+        },
+        {
+            "id": 8,
+            "skill": "Pintura"
+        },
+        {
+            "id": 9,
+            "skill": "Atletismo"
+        },
+        {
+            "id": 10,
+            "skill": "Design Gráfico"
+        },
+        {
+            "id": 11,
+            "skill": "Línguas Estrangeiras"
+        },
+        {
+            "id": 12,
+            "skill": "Artesanato"
+        },
+        {
+            "id": 13,
+            "skill": "Negociação"
+        },
+        {
+            "id": 14,
+            "skill": "Gerenciamento de Projetos"
+        },
+        {
+            "id": 15,
+            "skill": "Cálculo"
+        },
+        {
+            "id": 16,
+            "skill": "Costura"
+        },
+        {
+            "id": 17,
+            "skill": "Programação de Jogos"
+        },
+        {
+            "id": 18,
+            "skill": "Matemática"
+        },
+        {
+            "id": 19,
+            "skill": "Conselhamento"
+        },
+        {
+            "id": 20,
+            "skill": "Marketing"
+        }
+    ],
+    "postures": [
+        {
+            "id": 1,
+            "posture": "Confiante"
+        },
+        {
+            "id": 2,
+            "posture": "Hesitante"
+        },
+        {
+            "id": 3,
+            "posture": "Acomodado"
+        },
+        {
+            "id": 4,
+            "posture": "Agressivo"
+        },
+        {
+            "id": 5,
+            "posture": "Relaxado"
+        },
+        {
+            "id": 6,
+            "posture": "Tenso"
+        },
+        {
+            "id": 7,
+            "posture": "Dúvida"
+        },
+        {
+            "id": 8,
+            "posture": "Determinado"
+        },
+        {
+            "id": 9,
+            "posture": "Cauteloso"
+        },
+        {
+            "id": 10,
+            "posture": "Desafiador"
+        },
+        {
+            "id": 11,
+            "posture": "Abierto"
+        },
+        {
+            "id": 12,
+            "posture": "Reservado"
+        },
+        {
+            "id": 13,
+            "posture": "Engajado"
+        },
+        {
+            "id": 14,
+            "posture": "Indiferente"
+        },
+        {
+            "id": 15,
+            "posture": "Empático"
+        }
+    ],
+    "healthConditions": [
+        {
+            "id": 1,
+            "condition": "Saudável"
+        },
+        {
+            "id": 2,
+            "condition": "Doença Crônica"
+        },
+        {
+            "id": 3,
+            "condition": "Lesão"
+        },
+        {
+            "id": 6,
+            "condition": "Recuperando de Cirurgia"
+        },
+        {
+            "id": 7,
+            "condition": "Alergias"
+        },
+        {
+            "id": 8,
+            "condition": "Deficiência Física"
+        },
+        {
+            "id": 9,
+            "condition": "Doença Autoimune"
+        },
+        {
+            "id": 10,
+            "condition": "Problemas de Saúde Mental"
+        },
+        {
+            "id": 11,
+            "condition": "Diabetes"
+        },
+        {
+            "id": 12,
+            "condition": "Hipertensão"
+        },
+        {
+            "id": 13,
+            "condition": "Doença Cardiovascular"
+        },
+        {
+            "id": 14,
+            "condition": "Asma"
+        }
+    ],
+    "values": [
+        {
+            "id": 1,
+            "value": "Honestidade"
+        },
+        {
+            "id": 2,
+            "value": "Lealdade"
+        },
+        {
+            "id": 3,
+            "value": "Liberdade"
+        },
+        {
+            "id": 4,
+            "value": "Justiça"
+        },
+        {
+            "id": 5,
+            "value": "Comprometimento"
+        },
+        {
+            "id": 6,
+            "value": "Empatia"
+        },
+        {
+            "id": 7,
+            "value": "Respeito"
+        },
+        {
+            "id": 8,
+            "value": "Coragem"
+        },
+        {
+            "id": 9,
+            "value": "Solidariedade"
+        },
+        {
+            "id": 10,
+            "value": "Responsabilidade"
+        },
+        {
+            "id": 11,
+            "value": "Criatividade"
+        },
+        {
+            "id": 12,
+            "value": "Humildade"
+        },
+        {
+            "id": 13,
+            "value": "Paciência"
+        },
+        {
+            "id": 14,
+            "value": "Autonomia"
+        },
+        {
+            "id": 15,
+            "value": "Perseverança"
+        }
+    ],
+    "fears": [
+        {
+            "id": 1,
+            "fear": "Alturas"
+        },
+        {
+            "id": 2,
+            "fear": "Aranhas"
+        },
+        {
+            "id": 3,
+            "fear": "Escuro"
+        },
+        {
+            "id": 4,
+            "fear": "Aglomeramentos"
+        },
+        {
+            "id": 5,
+            "fear": "Insetos"
+        },
+        {
+            "id": 6,
+            "fear": "Agua Profunda"
+        },
+        {
+            "id": 7,
+            "fear": "Trovões"
+        },
+        {
+            "id": 8,
+            "fear": "Perda de Controle"
+        },
+        {
+            "id": 9,
+            "fear": "Morte"
+        },
+        {
+            "id": 10,
+            "fear": "Doenças"
+        },
+        {
+            "id": 11,
+            "fear": "Escalofríos"
+        },
+        {
+            "id": 12,
+            "fear": "Solidão"
+        },
+        {
+            "id": 13,
+            "fear": "Escapismo"
+        },
+        {
+            "id": 14,
+            "fear": "Cães"
+        },
+        {
+            "id": 15,
+            "fear": "Escuridão"
+        }
+    ],
+    "motivations": [
+        {
+            "id": 1,
+            "motivation": "Sucesso"
+        },
+        {
+            "id": 2,
+            "motivation": "Aventura"
+        },
+        {
+            "id": 3,
+            "motivation": "Conhecimento"
+        },
+        {
+            "id": 4,
+            "motivation": "Riqueza"
+        },
+        {
+            "id": 5,
+            "motivation": "Reconhecimento"
+        },
+        {
+            "id": 6,
+            "motivation": "Poder"
+        },
+        {
+            "id": 7,
+            "motivation": "Felicidade"
+        },
+        {
+            "id": 8,
+            "motivation": "Amor"
+        },
+        {
+            "id": 9,
+            "motivation": "Impacto Social"
+        },
+        {
+            "id": 10,
+            "motivation": "Liberdade"
+        },
+        {
+            "id": 11,
+            "motivation": "Crescimento Pessoal"
+        },
+        {
+            "id": 12,
+            "motivation": "Segurança"
+        },
+        {
+            "id": 13,
+            "motivation": "Contribuição"
+        },
+        {
+            "id": 14,
+            "motivation": "Influência"
+        },
+        {
+            "id": 15,
+            "motivation": "Experiências"
+        }
+    ],
+    "educations": [
+        {
+            "id": 1,
+            "education": "Ensino Fundamental"
+        },
+        {
+            "id": 2,
+            "education": "Ensino Médio"
+        },
+        {
+            "id": 3,
+            "education": "Graduação"
+        },
+        {
+            "id": 4,
+            "education": "Apenas alfabetizado"
+        },
+        {
+            "id": 5,
+            "education": "Analfabeto"
+        }
+    ],
+    "careers": [
+        {
+            "id": 1,
+            "career": "Engenheiro"
+        },
+        {
+            "id": 2,
+            "career": "Artista"
+        },
+        {
+            "id": 3,
+            "career": "Médico"
+        },
+        {
+            "id": 4,
+            "career": "Professor"
+        },
+        {
+            "id": 5,
+            "career": "Advogado"
+        },
+        {
+            "id": 6,
+            "career": "Cientista"
+        },
+        {
+            "id": 7,
+            "career": "Arquitetura"
+        },
+        {
+            "id": 8,
+            "career": "Jornalista"
+        },
+        {
+            "id": 9,
+            "career": "Desenvolvedor de Software"
+        },
+        {
+            "id": 10,
+            "career": "Músico"
+        },
+        {
+            "id": 11,
+            "career": "Chef"
+        },
+        {
+            "id": 12,
+            "career": "Psicólogo"
+        },
+        {
+            "id": 13,
+            "career": "Desempregado"
+        },
+        {
+            "id": 14,
+            "career": "Charlatão"
+        },
+        {
+            "id": 15,
+            "career": "Veterinário"
+        },
+        {
+            "id": 16,
+            "career": "Design Gráfico"
+        },
+        {
+            "id": 17,
+            "career": "Engenheiro Ambiental"
+        },
+        {
+            "id": 18,
+            "career": "Consultor"
+        },
+        {
+            "id": 19,
+            "career": "Diretor de Cinema"
+        },
+        {
+            "id": 20,
+            "career": "Empresário"
+        }
+    ],
+    "relationships": [
+        {
+            "id": 1,
+            "relationship": "Solteiro"
+        },
+        {
+            "id": 2,
+            "relationship": "Casado"
+        },
+        {
+            "id": 3,
+            "relationship": "Em um relacionamento"
+        },
+        {
+            "id": 4,
+            "relationship": "Noivo"
+        },
+        {
+            "id": 5,
+            "relationship": "Separado"
+        },
+        {
+            "id": 6,
+            "relationship": "Divorciado"
+        },
+        {
+            "id": 7,
+            "relationship": "Viúvo"
+        },
+        {
+            "id": 8,
+            "relationship": "Em um relacionamento aberto"
+        },
+        {
+            "id": 9,
+            "relationship": "Casado há anos"
+        },
+        {
+            "id": 10,
+            "relationship": "Em um relacionamento a distância"
+        },
+        {
+            "id": 11,
+            "relationship": "Em um relacionamento casual"
+        },
+        {
+            "id": 12,
+            "relationship": "Companheiro"
+        },
+        {
+            "id": 13,
+            "relationship": "Em um relacionamento não definido"
+        }
+    ],
+    "financialStatuses": [
+        {
+            "id": 1,
+            "status": "Rico"
+        },
+        {
+            "id": 2,
+            "status": "Classe Média"
+        },
+        {
+            "id": 3,
+            "status": "Pobre"
+        },
+        {
+            "id": 4,
+            "status": "Muito Rico"
+        },
+        {
+            "id": 5,
+            "status": "Acima da Média"
+        },
+        {
+            "id": 6,
+            "status": "Na Média"
+        },
+        {
+            "id": 7,
+            "status": "Abaixo da Média"
+        },
+        {
+            "id": 8,
+            "status": "Economizando"
+        },
+        {
+            "id": 9,
+            "status": "Endividado"
+        },
+        {
+            "id": 10,
+            "status": "Sem Recursos"
+        },
+        {
+            "id": 11,
+            "status": "Desempregado"
+        },
+        {
+            "id": 12,
+            "status": "Investidor"
+        }
+    ],
+    "cultures": [
+        {
+            "id": 1,
+            "culture": "Ocidental"
+        },
+        {
+            "id": 2,
+            "culture": "Oriental"
+        },
+        {
+            "id": 3,
+            "culture": "Indígena"
+        },
+        {
+            "id": 4,
+            "culture": "Africana"
+        },
+        {
+            "id": 5,
+            "culture": "Árabe"
+        },
+        {
+            "id": 6,
+            "culture": "Latina"
+        },
+        {
+            "id": 7,
+            "culture": "Nórdica"
+        },
+        {
+            "id": 8,
+            "culture": "Hindu"
+        },
+        {
+            "id": 9,
+            "culture": "Judaica"
+        },
+        {
+            "id": 10,
+            "culture": "Celta"
+        },
+        {
+            "id": 11,
+            "culture": "Maia"
+        },
+        {
+            "id": 12,
+            "culture": "Polinésia"
+        },
+        {
+            "id": 13,
+            "culture": "Persa"
+        },
+        {
+            "id": 14,
+            "culture": "Turca"
+        },
+        {
+            "id": 15,
+            "culture": "Búlgara"
+        },
+        {
+            "id": 16,
+            "culture": "Romani"
+        },
+        {
+            "id": 17,
+            "culture": "Grega"
+        },
+        {
+            "id": 18,
+            "culture": "Romana"
+        },
+        {
+            "id": 19,
+            "culture": "Eslava"
+        },
+        {
+            "id": 20,
+            "culture": "Siciliana"
+        },
+        {
+            "id": 21,
+            "culture": "Áustraliana"
+        },
+        {
+            "id": 22,
+            "culture": "Melanésia"
+        },
+        {
+            "id": 23,
+            "culture": "Sudanesa"
+        },
+        {
+            "id": 24,
+            "culture": "Somali"
+        },
+        {
+            "id": 25,
+            "culture": "Mongol"
+        },
+        {
+            "id": 26,
+            "culture": "Tibetana"
+        },
+        {
+            "id": 27,
+            "culture": "Tailandesa"
+        },
+        {
+            "id": 28,
+            "culture": "Filipina"
+        },
+        {
+            "id": 29,
+            "culture": "Malásia"
+        },
+        {
+            "id": 30,
+            "culture": "Indonésia"
+        },
+        {
+            "id": 31,
+            "culture": "Vietnamita"
+        },
+        {
+            "id": 32,
+            "culture": "Coreana"
+        },
+        {
+            "id": 33,
+            "culture": "Japonesa"
+        },
+        {
+            "id": 34,
+            "culture": "Taiwanesa"
+        },
+        {
+            "id": 35,
+            "culture": "Myanmar"
+        },
+        {
+            "id": 36,
+            "culture": "Cambodjana"
+        },
+        {
+            "id": 37,
+            "culture": "Laosiana"
+        },
+        {
+            "id": 38,
+            "culture": "Nepalesa"
+        },
+        {
+            "id": 39,
+            "culture": "Paquistanesa"
+        },
+        {
+            "id": 40,
+            "culture": "Afegã"
+        },
+        {
+            "id": 41,
+            "culture": "Kazakh"
+        },
+        {
+            "id": 42,
+            "culture": "Uzbeque"
+        },
+        {
+            "id": 43,
+            "culture": "Turcomena"
+        },
+        {
+            "id": 44,
+            "culture": "Armênia"
+        },
+        {
+            "id": 45,
+            "culture": "Georgiana"
+        },
+        {
+            "id": 46,
+            "culture": "Cazaque"
+        },
+        {
+            "id": 47,
+            "culture": "Síria"
+        },
+        {
+            "id": 48,
+            "culture": "Libanesa"
+        },
+        {
+            "id": 49,
+            "culture": "Iraquiana"
+        },
+        {
+            "id": 50,
+            "culture": "Yemenita"
+        }
+    ]
+}
